@@ -26,8 +26,6 @@ Google colab.
 
 Github.
 
-
-
 SQL.
 
 Html.
@@ -36,11 +34,12 @@ CSS.
 
 JS.
 
+QGIS.
+
 Power BI.
 
 Linux OS.
 
-Quantum GIS.
 
 
 - 🔭 I’m currently working on :
