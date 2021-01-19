@@ -26,6 +26,8 @@ Google colab.
 
 Github.
 
+
+
 SQL.
 
 Html.
@@ -35,6 +37,8 @@ CSS.
 JS.
 
 Power BI.
+
+Linux OS.
 
 Quantum GIS.
 
