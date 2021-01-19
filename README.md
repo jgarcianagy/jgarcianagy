@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align='center'>Hello, I'm <a href="https://github.com/jgarcianagy"> Julian!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+
+<h1 align='center'>Hi there, I'm <a href="https://github.com/jgarcianagy"> Julian!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2 align='center' style='text-transform:italic;'>Data Analyst &#x1f4c8;  - Developer in progress&nbsp;<img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="30"> </h2> 
 
 ---
