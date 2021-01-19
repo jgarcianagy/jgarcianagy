@@ -9,47 +9,50 @@
 
 - ⚡ Fun facts:
 
-I recently moved to Barcelona (and I love it).
+I recently moved from Argentina to Barcelona (and I love it).
 
 I´m 30 - but i feel like 22.
 
 I used to be a political scientist (MA Public Policy).
 
+
 - 🌱 I can handle tecnologies related to data analysis / web-development:
 
-Python -> Pandas Numpy Geopandas Matplotlib Seaborn Scikit-learn Bokeh 
+Python -> Pandas Numpy Geopandas Matplotlib Seaborn Scikit-learn Bokeh. 
 
-Anaconda - Jupyter lab
+Anaconda - Jupyter lab.
 
-Google colab
+Google colab.
 
-Github
+Github.
 
-SQL
+SQL.
 
-Html
+Html.
 
-CSS
+CSS.
 
-JS
+JS.
 
-Power BI
+Power BI.
 
-Quantum GIS
+Quantum GIS.
+
 
 - 🔭 I’m currently working on :
 
-Improve JS programming habilities
+Improve JS programming habilities.
 
-Learn web development frameworks in depth
+Learn web development frameworks in depth.
 
-Automate stuff with python using telegram bots
+Automate stuff with python using telegram bots.
 
 ______
 ## Soft Skills
 
 * Conflict management
 * Friendliness
+* Goal setting - Scheduling
 * Self-criticism
 * Proficient in communicating with team 
 * Decision making
@@ -69,7 +72,7 @@ ______
 * <a href="https://www.linkedin.com/in/jgarcianagy/detail/treasury/education:675796525/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACLw4yEBgL8ic4-__Bpg56cWmV2aLZI-QQM%2C1599502603494)&section=education%3A675796525&treasuryCount=1"> Databases with Python - Austral University </a>
 * <a href="https://www.coursera.org/professional-certificates/google-it-support">IT Supports Fundamentals - Google</a>
 
-### Other Finished courses 
+### Other Finished courses not directly related with IT
 
 * <a href="http://www.sociales.uba.ar/carreras/ciencia-politica/">Political Science - bachelor's degree</a>
 * <a href="https://www.utdt.edu/ver_contenido.php?id_contenido=796&id_item_menu=1877">Master in Public Policy</a>
