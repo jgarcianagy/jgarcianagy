@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align='center'>Hello, I'm <a href="https://github.com/jgarcianagy"> Julian!</a></h1>
-<h2 align='center' style='text-transform:italic;'>Data Analyst - Developer in progress&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align='center' style='text-transform:italic;'>Data Analyst - Developer in progress&nbsp;<img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="30"></h2>
 
 <!--
 **jgarcianagy/jgarcianagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
