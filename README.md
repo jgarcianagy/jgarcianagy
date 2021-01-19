@@ -4,7 +4,12 @@
 <h2 align='center' style='text-transform:italic;'>Data Analyst &#x1f4c8;  - Developer in progress&nbsp;<img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="30"> </h2> 
 
 ---
+
+<br>
+
 *A little more about me…*
+
+<br>
 
 
 - ⚡ Fun facts:
@@ -15,6 +20,7 @@ I´m 30 - but i feel like 22.
 
 I used to be a political scientist (MA Public Policy).
 
+<br>
 
 - 🌱 I can handle tecnologies related to data analysis / web-development:
 
@@ -40,6 +46,8 @@ Power BI.
 
 Linux OS.
 
+<br>
+
 
 
 - 🔭 I’m currently working on :
@@ -49,6 +57,8 @@ Improve JS programming habilities.
 Learn web development frameworks in depth.
 
 Automate stuff with python using telegram bots.
+
+<br>
 
 ______
 ## Soft Skills 👯
@@ -63,7 +73,6 @@ ______
 * Integrity
 ______
 
-______
 ## Learning path 🏆
 ### On-going courses
 * <a href="https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/">Desarrollo web - J. P. De la Torre Valdez</a>
